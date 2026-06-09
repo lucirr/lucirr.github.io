@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+---
+
 # Privacy Policy for Cam to PDF
 
 **Last updated: May 29, 2026**
