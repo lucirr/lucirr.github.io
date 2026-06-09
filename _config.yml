@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile
 include:
   - cam-to-pdf-privacy
+exclude: []
+
